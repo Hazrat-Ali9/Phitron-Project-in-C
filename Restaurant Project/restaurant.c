@@ -9,7 +9,7 @@ struct food
     double tax;
     int food_code;
 };
-
+// Resturant
 struct food input_food(void);
 void display_foods(struct food A[],int size);
 bool check_food_code(struct food F[],int size,int code);

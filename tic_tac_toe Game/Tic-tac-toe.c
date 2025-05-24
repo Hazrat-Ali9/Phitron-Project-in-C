@@ -46,7 +46,7 @@ int main(void)
 
 void starting_text(void)
 {
-    printf("Simple Project by Hazrat Ali\n");
+    printf("Simple Project by Hazrat Ali \n");
     printf("~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\n\n");
     printf("            Tic-Tac-Toe\n");
     printf("            ~~~~~~~~~~~\n\n");

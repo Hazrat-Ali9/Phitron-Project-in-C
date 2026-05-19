@@ -2,4 +2,4 @@
 
 # 🚒 Software Engineering || Programmer 
 
-# CEO & Founder HMSOftTecH Innovation
+# CEO & Founder HMSoftTecH Innovation
